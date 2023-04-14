@@ -75,9 +75,10 @@ We can conclude following things from above:
 * In entertainment also we can see most people has given highest negative recommendation to entertaiment rating 1 which shows that airline has to improve their entertainment system as well.
 * In ground service also we can see most people has given highest negative recommendation to ground service rating 1 which shows that airline has to improve their ground service.
 * In value for money also we can see most people has given highest negative recommendation to value for money rating 1 which shows that airline has to make their flight service more cost effective.
-* In model Selection we can see that Random Forest and XGBoost Model is having the same high Model Accuracy with a score 0.957082 but we can also see that recall, precision, f1-score and roc_auc_score of XGBoost model combined is giving higher score than Random Forest from which we have chosen XGBoost Model for further prediction.
-* In Shap JS summary we can see positive features overall, value for money,numeric_review combined red color block pushes the prediction toward right over base value and causing positive model prediction and it is common for all model.
-* In Shap summary scatter plot we can see in scatter plot high overall,value for money,numeric_review,cabin service,ground_service positive features and low airline_British_airways is increasing positive prediction and it is common for all models. Also we can see that overall,value for money,numeric_review,cabin service,ground_service has high shap feature value.
+* In model Selection we can see that Random Forest and XGBoost Model - GridSearchCV is having the same high Model Accuracy with a score 0.980025 but we can also see that recall, precision, f1-score and roc_auc_score of XGBoost model - GridSearchCV combined is giving higher score than Random Forest from which we have chosen XGBoost Model - GridSearchCV for further prediction.
+* The most important features were overall rating and value for money, which helped the model predict whether passengers would recommend a particular airline to their friends and others.
+*	Therefore, in order to grow their business, the airline must provide outstanding cabin service, ground handling, entertaining, food, beverages and comfortable seating.
+
 
 
 # References
