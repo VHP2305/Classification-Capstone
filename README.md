@@ -2,9 +2,7 @@
 
 # Airline Passenger Referral Prediction
 
-<p align="center">
 ![Air_plane](https://github.com/VHP2305/Classification-Capstone/blob/651c40385aa6464eb4b18d7f1b6642bf619c0860/Airplane.jpg)
-<p>
   
 # Objective:
 
