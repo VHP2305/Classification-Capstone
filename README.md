@@ -75,7 +75,7 @@ We can conclude following things from above:
 * In entertainment also we can see most people has given highest negative recommendation to entertaiment rating 1 which shows that airline has to improve their entertainment system as well.
 * In ground service also we can see most people has given highest negative recommendation to ground service rating 1 which shows that airline has to improve their ground service.
 * In value for money also we can see most people has given highest negative recommendation to value for money rating 1 which shows that airline has to make their flight service more cost effective.
-* In model Selection we can see that Random Forest and XGBoost Model - GridSearchCV is having the same high Model Accuracy with a score 0.980025 but we can also see that recall, precision, f1-score and roc_auc_score of XGBoost model - GridSearchCV combined is giving higher score than Random Forest from which we have chosen XGBoost Model - GridSearchCV for further prediction.
+* In model Selection we can see that Random Forest and XGBoost Model - GridSearchCV is having the same high Model Accuracy with a score 0.980375 but we can also see that recall, precision, f1-score and roc_auc_score of XGBoost model - GridSearchCV combined is giving higher score than Random Forest from which we have chosen XGBoost Model - GridSearchCV for further prediction.
 * The most important features were overall rating and value for money, which helped the model predict whether passengers would recommend a particular airline to their friends and others.
 *	Therefore, in order to grow their business, the airline must provide outstanding cabin service, ground handling, entertaining, food, beverages and comfortable seating.
 
